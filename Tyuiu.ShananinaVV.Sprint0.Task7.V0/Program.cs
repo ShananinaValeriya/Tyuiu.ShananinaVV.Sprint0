@@ -22,7 +22,7 @@ namespace Tyuiu.ShananinaVV.Sprint0.Task7.V0
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать консольную программу на C#, которая суммирует значения двух    *");
-            Console.WriteLine("* одинаковых массивов по длине.                                          *");
+            Console.WriteLine("* одинаковых массивов по длине.                                           *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
